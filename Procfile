@@ -1,0 +1,1 @@
+web: java -jar target/HotelDeals-1.0.jar
